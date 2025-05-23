@@ -16,5 +16,4 @@ The TikTok data collection process involves a multi-step approach to gather a co
 
 
 ## Star History 
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://www.star-history.com/embed?secret=#yoomin53/Tiktok-and-Fashion&Date" frameBorder="0"></iframe>
-
+[![Star History Chart](https://api.star-history.com/svg?repos=yoomin53/Tiktok-and-Fashion&type=Date)](https://www.star-history.com/#yoomin53/Tiktok-and-Fashion&Date)
