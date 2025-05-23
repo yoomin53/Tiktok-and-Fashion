@@ -2,6 +2,12 @@
 
 ### this project scrapes data from Tiktok and finds its influence in fashion trend.  
 
+<div align="center"> 
+    <a href="https://www.linkedin.com/in/yoomin-jung-17a9812b1/"><img src="https://img.shields.io/badge/Gallery-View-orange?logo=&amp"></a>
+</div> 
+
+
+
 This project explores the commercial viability of TikTok driven fashion trends. As one of the most powerful platforms in shaping fashion culture, TikTok regularly launches aesthetics that dominate social feeds. We asked ourselves how many of these trends go beyond virality and influence what we actually wear? Over a 4 month period, the project tracked major fashion trends from 2023~2024 including Quiet Luxury, Barbiecore, Tomato Girl, Mermaidcore, Blokecore, and Coastal Cowgirl.
 
 ## Data Scraping
