@@ -17,6 +17,7 @@ The TikTok data collection process involves a multi-step approach to gather a co
     <img src="./assets/readme/engagement_rate_trend.png" width="250"/>
 </p>
 **Engagement rate formular**
+
 $$(likes + comments + shares + saves) / views x 100 %  $$
 
 
