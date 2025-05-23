@@ -14,7 +14,7 @@ The TikTok data collection process involves a multi-step approach to gather a co
 
 ## Engagement rate 
 <p align="center">
-    <img src="./assets/readme/engagement_rate_trend.png" width="750"/>
+    <img src="./assets/readme/engagement_rate_trend.png" width="250"/>
 </p>
 
 
