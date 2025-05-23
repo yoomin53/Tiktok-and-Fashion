@@ -3,7 +3,7 @@
 this project scrapes data from Tiktok and finds its influence in fashion trends.  
 
 <p align="center">
-    <img src="./assets/readme/tiktokflowchart.drawio.png" width="250"/>
+    <img src="./assets/readme/tiktokflowchart.drawio.png" width="1000"/>
 </p>
 
 
