@@ -14,7 +14,7 @@ The TikTok data collection process involves a multi-step approach to gather a co
 
 ##Acknowledgement
 
-*UnofficialTikTokAPIinPython(https://github.com/davidteather/TikTok-Api): an unofficial API wrapper for TikTok.com in python. 
+* [UnofficialTikTokAPIinPython](https://github.com/davidteather/TikTok-Api): an unofficial API wrapper for TikTok.com in python. 
 
 
 ## Star History 
