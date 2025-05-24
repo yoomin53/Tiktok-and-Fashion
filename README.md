@@ -29,11 +29,11 @@ To extract insightful information from the disorganized data contained within th
 The image above is a Tomatogirl Wordcloud of 2023. 
 
 <div align="center">
-    <img src="./assets/readme/trend_collects_metrics_without_outliers.png" width="180"/>
-    <img src="./assets/readme/trend_comments_metrics_without_outliers.png" width="180"/>
-    <img src="./assets/readme/trend_likes_metrics_without_outliers.png" width="180"/>
-    <img src="./assets/readme/trend_shares_metrics_without_outliers.png" width="180"/>
-    <img src="./assets/readme/trend_views_metrics_without_outliers.png" width="180"/>
+    <img src="./assets/readme/trend_collects_metrics_without_outliers.png" width="150"/>
+    <img src="./assets/readme/trend_comments_metrics_without_outliers.png" width="150"/>
+    <img src="./assets/readme/trend_likes_metrics_without_outliers.png" width="150"/>
+    <img src="./assets/readme/trend_shares_metrics_without_outliers.png" width="150"/>
+    <img src="./assets/readme/trend_views_metrics_without_outliers.png" width="150"/>
 </div>
 
 ## Engagement rate 
