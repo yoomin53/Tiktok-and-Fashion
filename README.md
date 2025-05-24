@@ -17,16 +17,17 @@ The TikTok data collection process involves a multi-step approach to gather a co
 ## Sentiment anaylisys 
 
 ## Trials 
-To extract insightful information from the disorganized data contained within the CSV files, a two-stage approach was employed. Initially, a data cleaning process was undertaken, wherein rows with missing values were systematically removed to ensure data integrity and accuracy. Subsequently, a comprehensive data visualization exercise was conducted, involving the creation of various graphical representations to identify meaningful patterns and trends. These visualizations included distribution analyses, likes by year, a word cloud generated from video comments, sentiment analysis over time, and sentiment patterns by day of the week. This multi-faceted approach enabled a thorough examination of the data, facilitating the discovery of valuable insights and meaningful correlations.
+To extract insightful information from the disorganized data contained within the CSV files, a two-stage approach was employed. Initially, a data cleaning process was undertaken, wherein rows with missing values were dropped to ensure data integrity and accuracy. Subsequently, a comprehensive data visualization exercise was conducted, involving the creation of various graphical representations to identify meaningful patterns and trends. These visualisations included distribution analyses, likes by year, a word cloud generated from video comments, sentiment analysis over time, sentiment patterns by day of the week, etc. The graphs below are examples of what visualisations were created in a trials stage. 
 
 <p align="center">
     <img src="./assets/readme/Barbiecore_sentiment_2023_vs_2024.png" width="250"/>
 </p>
+The graph illustrates the sentiment trend over time, comparing the years 2023 and 2024. While it appears to suggest a rapid growth in sentiment in 2024 relative to 2023, the data is unfortunately too sparse to be considered reliable. The limited number of data points and the significant gaps between them undermine the confidence in the observed trend, making it difficult to draw conclusive insights or make informed decisions based on this visualization alone.
 
 <p align="center">
-    <img src="./assets/readme/wordcloud_2023.png" width="250"/>
+    <img src="./assets/readme/wordcloud_2023.png" width="250"/> 
 </p>
-The image above is a Tomatogirl Wordcloud of 2023. 
+The Tomatogirl Wordcloud for 2023 offers a captivating visual representation of text data, enabling a rapid identification of dominant sentiments and ideas surrounding fashion trends. However, its limitations lie in the absence of quantitative data, restricting its ability to provide detailed insights into the impact of TikTok on fashion trends. To gain a deeper understanding. Consequently, the Wordcloud was deemed insufficient for in-depth analysis and was subsequently set aside in favor of visualization techniques that incorporated quantitative methods, enabling a more nuanced and data-driven exploration of the relationship between TikTok and fashion trends.
 
 <div align="center">
     <img src="./assets/readme/trend_collects_metrics_without_outliers.png" width="150"/>
