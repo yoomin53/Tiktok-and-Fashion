@@ -37,6 +37,8 @@ The Tomatogirl Wordcloud for 2023 offers a captivating visual representation of 
     <img src="./assets/readme/trend_views_metrics_without_outliers.png" width="150"/>
 </div>
 
+To quantify TikTok's impact on fashion trends, I created individual graphs tracking the engagement metrics (collections, comments, likes, shares, and views) of the 6 hashtags. Although each graph exhibits similar trend lines, minor discrepancies arise, likely due to the unique characteristics of each metric, and unknown errors. With multiple graphs to analyze and subtle variations in results, I sought to consolidate the data into a single, comprehensive graph. To achieve this, I considered applying an engagement rate formula, which would enable me to synthesize the disparate metrics into a unified, actionable insight.
+
 ## Engagement rate 
 <p align="center">
     <img src="./assets/readme/engagement_rate_trend.png" width="250"/>
