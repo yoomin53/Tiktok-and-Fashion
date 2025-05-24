@@ -16,11 +16,11 @@ The TikTok data collection process involves a multi-step approach to gather a co
 
 ## Trials 
 <p align="center">
-    <img src="./assets/readme/Barbiecore_sentiment_2023_vs_2024.png" width="750"/>
+    <img src="./assets/readme/Barbiecore_sentiment_2023_vs_2024.png" width="250"/>
 </p>
 
 <p align="center">
-    <img src="./assets/readme/worldcloud_2023.png" width="750"/>
+    <img src="./assets/readme/worldcloud_2023.png" width="250"/>
 </p>
 
 
