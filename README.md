@@ -1,4 +1,4 @@
-# Tiktok-and-Fashion
+# Tiktok and Fashion
 
 ### This project scrapes data from Tiktok and finds its influence in fashion trends.  
 
