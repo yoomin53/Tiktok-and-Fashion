@@ -14,7 +14,11 @@ This project explores the commercial viability of TikTok driven fashion trends. 
 
 The TikTok data collection process involves a multi-step approach to gather a comprehensive dataset of videos related to specific hashtags, such as "mermaidcore" and "tomatogirl". The `TikTokApi_SearchByHashtag.py` script utilizes an unofficial TikTok API wrapper to search for videos by a specific hashtag, retrieving a list of relevant videos that may not necessarily include the exact hashtag due to TikTok's algorithmic collection of related content. However, due to the limitations of the TikTok API, the `Amplify.py` script is employed to enhance the sample size of the video dataset by reading a list of video IDs from a `data.csv` file, sending a request to the API to retrieve related videos, and filtering these results to check if they contain the target hashtag, repeating this process until the dataset reaches a size of over 1000 videos or has been repeated more than 5 times. Finally, the `Sentimental.py` script analyzes the sentiment of sampled comments from the collected videos using a transformer model, providing valuable insights into the emotional tone and public opinion associated with the target hashtags, ultimately allowing for in-depth analysis of trends, sentiment, and engagement metrics related to specific hashtags on TikTok.
 
+## Sentiment anaylisys 
+
 ## Trials 
+To extract insightful information from the disorganized data contained within the CSV files, a two-stage approach was employed. Initially, a data cleaning process was undertaken, wherein rows with missing values were systematically removed to ensure data integrity and accuracy. Subsequently, a comprehensive data visualization exercise was conducted, involving the creation of various graphical representations to identify meaningful patterns and trends. These visualizations included distribution analyses, likes by year, a word cloud generated from video comments, sentiment analysis over time, and sentiment patterns by day of the week. This multi-faceted approach enabled a thorough examination of the data, facilitating the discovery of valuable insights and meaningful correlations.
+
 <p align="center">
     <img src="./assets/readme/Barbiecore_sentiment_2023_vs_2024.png" width="250"/>
 </p>
@@ -22,7 +26,7 @@ The TikTok data collection process involves a multi-step approach to gather a co
 <p align="center">
     <img src="./assets/readme/wordcloud_2023.png" width="250"/>
 </p>
-
+The image above is a Tomatogirl Wordcloud of 2023. 
 
 <div align="center">
     <img src="./assets/readme/trend_collects_metrics_without_outliers.png" width="180"/>
