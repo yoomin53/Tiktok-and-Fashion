@@ -54,6 +54,8 @@ Engagement rate measures the percentage of people who interacted with the video 
 <p align="center">
     <img src="./assets/readme/trend_sentiment_metrics.png" width="250"/>
 </p>
+sentiment analysis 
+
 ## Acknowledgement
 
 * [Unofficial TikTok API in Python](https://github.com/davidteather/TikTok-Api): an unofficial API wrapper for TikTok.com in python. 
