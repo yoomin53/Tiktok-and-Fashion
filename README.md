@@ -16,11 +16,11 @@ The TikTok data collection process involves a multi-step approach to gather a co
 
 ## Trials 
 <div align="center">
-    <img src="./assets/readme/trend_collects_metrics_without_outliers.png" width="100"/>
-    <img src="./assets/readme/trend_comments_metrics_without_outliers.png" width="100"/>
-    <img src="./assets/readme/trend_likes_metrics_without_outliers.png" width="100"/>
-    <img src="./assets/readme/trend_shares_metrics_without_outliers.png" width="100"/>
-    <img src="./assets/readme/trend_views_metrics_without_outliers.png" width="100"/>
+    <img src="./assets/readme/trend_collects_metrics_without_outliers.png" width="150"/>
+    <img src="./assets/readme/trend_comments_metrics_without_outliers.png" width="150"/>
+    <img src="./assets/readme/trend_likes_metrics_without_outliers.png" width="150"/>
+    <img src="./assets/readme/trend_shares_metrics_without_outliers.png" width="150"/>
+    <img src="./assets/readme/trend_views_metrics_without_outliers.png" width="150"/>
 </div>
 
 ## Engagement rate 
