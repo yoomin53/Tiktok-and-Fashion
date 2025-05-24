@@ -20,7 +20,7 @@ The TikTok data collection process involves a multi-step approach to gather a co
 </p>
 
 <p align="center">
-    <img src="./assets/readme/worldcloud_2023.png" width="250"/>
+    <img src="./assets/readme/wordcloud_2023.png" width="250"/>
 </p>
 
 
