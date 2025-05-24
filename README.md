@@ -54,7 +54,8 @@ Engagement rate measures the percentage of people who interacted with the video 
 <p align="center">
     <img src="./assets/readme/trend_sentiment_metrics.png" width="250"/>
 </p>
-sentiment analysis 
+
+I collected approximately 30 comments per video and conducted sentiment analysis to determine the average sentiment score for each video using the nlptown/bert-base-multilingual-uncased-sentiment model. This model is particularly well-suited for analyzing TikTok comments, as it effectively handles emojis and multilingual text, providing more nuanced results compared to lexicon-based approaches. Following the analysis, I plotted the data and included a trend line to visualize the patterns and trends in sentiment scores across the videos.
 
 ## Acknowledgement
 
