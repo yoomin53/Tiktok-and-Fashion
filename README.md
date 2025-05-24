@@ -50,7 +50,10 @@ $$(likes + comments + shares + saves) / views x 100 %  $$
 
 Engagement rate measures the percentage of people who interacted with the video out of the total number of people who saw it. The total interactions of a TikTok video could be shown as a sum of likes, comments, shares, and saves. 
 
-
+## Sentiment analysis 
+<p align="center">
+    <img src="./assets/readme/trend_sentiment_metrics.png" width="250"/>
+</p>
 ## Acknowledgement
 
 * [Unofficial TikTok API in Python](https://github.com/davidteather/TikTok-Api): an unofficial API wrapper for TikTok.com in python. 
