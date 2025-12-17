@@ -1,15 +1,18 @@
 # Tiktok and Fashion
+### Measuring the Real-World Impact of Social Media Trends on Fashion industries Using Engagement & Sentiment Analytics
 
-### This project scrapes data from Tiktok and finds its influence in fashion trends.  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/yoomin-jung-17a9812b1/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/leejungho)
+## 🛠 Tech Stack
+- **Languages:** Python, R 
+- **Data Collection:** Web Scraping through Unofficial TikTok API
+- **Data Processing:** Pandas, NumPy
+- **Visualization:** R (ggplot2, tidyverse)
+- **NLP:** HuggingFace Transformers for Sentiment Analysis (nlptown/bert-base-multilingual-uncased-sentiment)
+- **Research Methods:** Mixed-Methods Analysis (Qualitative + Quantitative)
 
 ## 👥 Team
 | Name | Role | LinkedIn |
 |------|------|----------|
-| 정유민 | Data Science / Data Science & Analytics Lead | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/yoomin-jung-17a9812b1/) |
+| 정유민 | Data Science / Data & Analytics Lead | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/yoomin-jung-17a9812b1/) |
 | 이준호 | Backend / Project & Market Research Lead | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/leejungho) |
 
 ## 👥 Team & Roles
@@ -39,6 +42,10 @@ The TikTok data collection process involves a multi-step approach to gather a co
 
 
 ## Trials 
+All final visualizations were implemented in R using ggplot2 and tidyverse,
+allowing for consistent statistical transformations and publication-quality
+visual outputs across experiments.
+
 To extract insightful information from the disorganized data contained within the CSV files, a two-stage approach was employed. Initially, a data cleaning process was undertaken, wherein rows with missing values were dropped to ensure data integrity and accuracy. Subsequently, a comprehensive data visualization exercise was conducted, involving the creation of various graphical representations to identify meaningful patterns and trends. These visualisations included distribution analyses, likes by year, a word cloud generated from video comments, sentiment analysis over time, sentiment patterns by day of the week, etc. The graphs below are examples of what visualisations were created in a trials stage. 
 
 <p align="center">
@@ -78,6 +85,20 @@ Engagement rate measures the percentage of people who interacted with the video 
 </p>
 
 I collected approximately 30 comments per video and conducted sentiment analysis to determine the average sentiment score for each video using the nlptown/bert-base-multilingual-uncased-sentiment model. This model is particularly well-suited for analyzing TikTok comments, as it effectively handles emojis and multilingual text, providing more nuanced results compared to lexicon-based approaches. Following the analysis, I plotted the data and included a trend line to visualize the patterns and trends in sentiment scores across the videos.
+
+
+## ⚠️ Limitations & Next Steps
+
+**Limitations**
+- Limited historical depth of TikTok data due to API constraints
+- Sparse sentiment time-series reduced confidence in longitudinal trends
+- Engagement rate does not fully capture offline purchase behavior
+
+**Next Steps**
+- Incorporate e-commerce or Google Trends data for external validation
+- Apply causal inference methods to distinguish correlation from impact
+- Train a trend persistence classifier using engagement stability features
+
 
 ## Acknowledgement
 
