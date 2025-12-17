@@ -26,6 +26,11 @@ from transient social media hype.
 - **NLP:** HuggingFace Transformers for Sentiment Analysis (nlptown/bert-base-multilingual-uncased-sentiment)
 - **Research Methods:** Mixed-Methods Analysis (Qualitative + Quantitative)
 
+> 📌 Note  
+This repository focuses on the quantitative analysis, data pipeline,
+and metric design. The accompanying presentation (TikTok Project.ppt) provides extended
+business context and qualitative interpretation.
+
 ## 👥 Team
 | Name | Role | LinkedIn |
 |------|------|----------|
