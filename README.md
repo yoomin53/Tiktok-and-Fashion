@@ -34,8 +34,8 @@ business context and qualitative interpretation.
 ## 👥 Team
 | Name | Role | LinkedIn |
 |------|------|----------|
-| 정유민 | Data Science / Data & Analytics Lead | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/yoomin-jung-17a9812b1/) |
-| 이준호 | Backend / Project & Market Research Lead | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/leejungho) |
+| Jung Yoomin | Data Science / Data & Analytics Lead | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/yoomin-jung-17a9812b1/) |
+| Lee Junho | Backend / Project & Market Research Lead | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/leejungho) |
 
 ## 👥 Team & Roles
 
