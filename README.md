@@ -113,28 +113,28 @@ I collected approximately 30 comments per video and conducted sentiment analysis
 
 **Limitations**
 **Platform & Data Access Constraints**
-TikTok data was collected via an unofficial API and hashtag-based scraping,
+- TikTok data was collected via an unofficial API and hashtag-based scraping,
 which limited historical depth and introduced sampling bias toward
 algorithmically surfaced content.
 
 **Engagement Metric Simplification**
-Engagement rate was designed as a normalized proxy to consolidate interaction
+- Engagement rate was designed as a normalized proxy to consolidate interaction
 signals; however, it does not account for contextual weighting across metrics
 (e.g., differential impact of shares vs. likes) and may be sensitive to
 unfiltered outliers.
 
 **Noise and Anomaly Handling**
-Due to resource constraints, anomaly detection and advanced outlier treatment
+- Due to resource constraints, anomaly detection and advanced outlier treatment
 were not systematically applied, potentially affecting trend stability
 estimates.
 
 **Selective Qualitative Coverage**
-Qualitative market research focused on a limited set of luxury and SPA brands,
+- Qualitative market research focused on a limited set of luxury and SPA brands,
 which restricted cross-segment generalizability and introduced subjective
 item-to-trend mapping.
 
 **Scope and Resource Constraints**
-As a student-led project without access to official APIs or premium analytics
+- As a student-led project without access to official APIs or premium analytics
 tools, time and manpower constraints limited both the scale of data collection
 and the depth of modeling.
 
