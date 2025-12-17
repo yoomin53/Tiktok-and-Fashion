@@ -7,11 +7,24 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/leejungho)
 
 ## 👥 Team
-、、
 | Name | Role | LinkedIn |
 |------|------|----------|
-| 정유민 | Data Science / Data Science & Analytics Lead | [LinkedIn](https://www.linkedin.com/in/yoomin-jung-17a9812b1/) |
-| 이준호 | Backend / Project & Market Research Lead | [LinkedIn](https://www.linkedin.com/in/leejungho) |
+| 정유민 | Data Science / Data Science & Analytics Lead | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/yoomin-jung-17a9812b1/) |
+| 이준호 | Backend / Project & Market Research Lead | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/leejungho) |
+
+## 👥 Team & Roles
+
+### Jung Yoomin – Data Science & Analytics Lead
+- Designed the analytical framework and quantitative validation strategy
+- Built and managed the data collection pipeline (web scraping & unofficial APIs)
+- Collaborated on integrating qualitative insights with quantitative analysis**
+- Led data analysis and visualization
+
+### Lee Junho – Project & Market Research Lead
+- Conducted qualitative market research through article analysis
+- led the integration of qualitative insights with quantitative findings**
+- Designed the overall storytelling and visual presentation of insights
+
 
 This project explores the commercial viability of TikTok driven fashion trends. As one of the most powerful platforms in shaping fashion culture, TikTok regularly launches aesthetics that dominate social feeds. We asked ourselves how many of these trends go beyond virality and influence what we actually wear? Over a 4 month period, the project tracked major fashion trends from 2023~2024 including Quiet Luxury, Barbiecore, Tomato Girl, Mermaidcore, Blokecore, and Coastal Cowgirl.
 
