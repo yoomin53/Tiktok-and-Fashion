@@ -31,7 +31,7 @@ This repository focuses on the quantitative analysis, data pipeline,
 and metric design. The accompanying presentation (TikTok Project.ppt) provides extended
 business context and qualitative interpretation.
 
-## 👥 Team
+## 👥 Team LinkedIn
 | Name | Role | LinkedIn |
 |------|------|----------|
 | Jung Yoomin | Data Science / Data & Analytics Lead | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/yoomin-jung-17a9812b1/) |
