@@ -1,5 +1,22 @@
 # Tiktok and Fashion
 ### Measuring the Real-World Impact of Social Media Trends on Fashion industries Using Engagement & Sentiment Analytics
+## 🚀 Executive Summary
+
+**Goal**  
+Evaluate whether TikTok-driven fashion trends extend beyond virality
+into sustained engagement and commercial relevance.
+
+**Scope**  
+Tracked six major fashion trends from 2023–2024 over a four-month period
+(Quiet Luxury, Barbiecore, Tomato Girl, Mermaidcore, Blokecore, Coastal Girl).
+
+**Approach**  
+Integrated qualitative market research with quantitative TikTok engagement
+and sentiment analytics using a custom data pipeline.
+
+**Outcome**  
+Developed an engagement-based framework to distinguish persistent trends
+from transient social media hype.
 
 ## 🛠 Tech Stack
 - **Languages:** Python, R 
