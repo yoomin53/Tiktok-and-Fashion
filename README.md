@@ -63,7 +63,7 @@ The TikTok data collection process involves a multi-step approach to gather a co
 
 
 
-## Trials 
+## 🧪 Experiments & Learnings
 All final visualizations were implemented in R using ggplot2 and tidyverse,
 allowing for consistent statistical transformations and publication-quality
 visual outputs across experiments.
